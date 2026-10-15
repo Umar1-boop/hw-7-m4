@@ -151,3 +151,9 @@
         form.addEventListener("submit", createProduct);
 
         getProducts()
+
+
+
+
+
+        // ${product.id} добавляется в конец URL в запросе DELETE, чтобы указать, какой именно товар нужно удалить. //
